@@ -1,0 +1,21 @@
+{
+	"name": "Jumper",
+	"short_name": "Jumper",
+	"description": "Собирай монетки, делись результатами с друзьями",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/Иконка-64.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/Иконка-16.png",
+			"sizes": "514x514",
+			"type": "image/png"
+		}
+	]
+}
