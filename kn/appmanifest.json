@@ -1,0 +1,21 @@
+{
+	"name": "Король Ночи",
+	"short_name": "Король Ночи",
+	"description": "Пульни Кораля ночи)",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-128.png",
+			"sizes": "935x663",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-32.png",
+			"sizes": "937x665",
+			"type": "image/png"
+		}
+	]
+}
