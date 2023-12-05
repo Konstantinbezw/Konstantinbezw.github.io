@@ -1,0 +1,16 @@
+{
+	"name": "Kosmo",
+	"short_name": "Kosmo",
+	"description": "game",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "258x258",
+			"type": "image/png"
+		}
+	]
+}
